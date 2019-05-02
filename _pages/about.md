@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Samuel Acuña. I am a biomechanical engineer finishing my PhD in Mechanical Engineering at the [University of Wisconsin-Madison](http://www.wisc.edu). I work in the [Neuromuscular Biomechanics Lab](http://uwnmbl.engr.wisc.edu) with [Prof. Darryl Thelen](https://directory.engr.wisc.edu/me/Faculty/Thelen_Darryl/).
+Hello! My name is Samuel Acuña. I am a biomechanical engineer in the Mechanical Engineering department at the [University of Wisconsin-Madison](http://www.wisc.edu). I work in the [Neuromuscular Biomechanics Lab](http://uwnmbl.engr.wisc.edu) with [Prof. Darryl Thelen](https://directory.engr.wisc.edu/me/Faculty/Thelen_Darryl/).
 
 Research Interests:
 - Neuromuscular Biomechanics
@@ -28,7 +28,7 @@ Research Interests:
 
 
 ## Education
-**Doctor of Philosophy**, Mechanical Engineering, _Expected Graduation in Spring 2019_<br />
+**Doctor of Philosophy**, Mechanical Engineering, _May 2019_<br />
 [University of Wisconsin–Madison](http://www.wisc.edu), Madison, WI
 
 **Master of Science**, Mechanical Engineering, _May 2015_<br />
