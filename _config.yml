@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Samuel Acuña"
+title                    : "Samuel A. Acuña, PhD"
 title_separator          : "-"
 name                     : &name "Samuel Acuña"
 description              : &description "Biomechanical engineer"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Samuel Acuña"
+  name             : "Samuel A. Acuña, PhD"
   avatar           : "SamuelAcuna_small.png"
-  bio              : "Biomechanical Engineer<br />Dept of Mechanical Engineering<br />University of Wisconsin–Madison"
+  bio              : "Biomechanical Engineer<br />University of Wisconsin–Madison"
   location         : "Madison, WI"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
