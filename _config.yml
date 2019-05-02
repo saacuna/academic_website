@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Samuel Acuña"
   avatar           : "SamuelAcuna_small.png"
-  bio              : "Biomechanical Engineer at the University of Wisconsin–Madison"
-  location         : "1513 University Ave<br />Madison, WI 53706"
+  bio              : "Biomechanical Engineer<br />Dept of Mechanical Engineering<br />University of Wisconsin–Madison"
+  location         : "Madison, WI"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Zqj4k18AAAAJ&hl=en"

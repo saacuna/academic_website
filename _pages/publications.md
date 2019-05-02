@@ -16,7 +16,7 @@ author_profile: true
 1.	**Acuña SA**, Francis CA, Franz JR, Thelen DG (2018). The effects of cognitive load and optical flow on antagonist leg muscle coactivation during walking for young and older adults. Electromyography and Kinesiology.--->
 
 
-### Conference Abstracts
+### Conference abstracts
 1. **Acuña SA**, Ebrahimi A, Thelen DG. Thelen DG. Achilles tendon shear wave speed as a measure of the active modulation of standing balance. Presentation at the joint conference of the International Society of Biomechanics and American Society of Biomechanics. Calgary, AB. August 2019. [_Accepted._]
 1. **Acuña SA**, Zunker JD, Thelen DG. Sub-threshold vibratory noise does not alter visuomotor entrainment during human walking. Poster presentation at the Gait and Clinical Motion Analysis Society Annual Meeting. Frisco, TX. March 2019.
 1. **Acuña SA**, Tyler ME, Danilov YP, Thelen DG. Changes in dynamic motor control following neurorehabilitation for traumatic brain injury: treadmill vs overground walking. Presentation at the American Society of Biomechanics Annual Meeting. Rochester, MN. August 2018. [_Finalist for ASB Doctoral Student Presentation Competition._]
