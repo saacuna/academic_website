@@ -14,7 +14,6 @@ Spread the word about Biomechanics! [National Biomechanics Day](http://nationalb
 - [American Society of Biomechanics](http://www.asbweb.org)
 - [International Society of Electrophysiology and Kinesiology](http://www.isek.org)
 - [Gait and Clinical Motion Analysis Society](http://www.gcmas.org)
-- [UW-Madison Teaching Academy](https://teachingacademy.wisc.edu)
 
 ## Research Labs I've worked in:
 - [UW Neuromuscular Biomechanics Lab](http://www.wisc.edu)
