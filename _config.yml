@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Samuel A. Acuña, PhD"
   avatar           : "SamuelAcuna_small.png"
-  bio              : "Biomechanical Engineer<br />University of Wisconsin–Madison"
-  location         : "Madison, WI"
+  bio              : "Biomechanical Engineer<br />University of Texas Southwestern Medical Center"
+  location         : "Dallas, TX"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Zqj4k18AAAAJ&hl=en"
-  email            : "saacuna@wisc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=MKs4n0AAAAAJ&hl=en"
+  email            : "samuel.acuna@utsouthwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

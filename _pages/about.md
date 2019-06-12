@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Samuel Acuña. I am a biomechanical engineer in the Mechanical Engineering department at the [University of Wisconsin-Madison](http://www.wisc.edu). I work in the [Neuromuscular Biomechanics Lab](http://uwnmbl.engr.wisc.edu) with [Prof. Darryl Thelen](https://directory.engr.wisc.edu/me/Faculty/Thelen_Darryl/).
+Hello! My name is Samuel Acuña. I am a biomechanical engineer in the department of [Physical Medicine & Rehabilitation](https://www.utsouthwestern.edu/education/medical-school/departments/physical-medicine/) at [UT Southwestern Medical Center](https://www.utsouthwestern.edu). I am postdoctoral researcher working with Dr. Yasin Dharer.
 
 Research Interests:
 - Neuromuscular Biomechanics
@@ -16,7 +16,7 @@ Research Interests:
 - Motor Control
 - Movement disorder, esp. altered gait
 - Non-invasive neuromodulation
-- Biomechanics of Aging 
+- Biomechanics of Aging
 - Biofeedback to improve gait
 
 ## Current Research Projects
