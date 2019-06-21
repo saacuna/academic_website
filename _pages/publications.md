@@ -5,14 +5,14 @@ author_profile: true
 ---
 
 ### Manuscripts in review
-1.	**Acuña SA**, Zunker JD, Thelen DG (2019). The effects of sub-threshold vibratory noise on visuomotor entrainment during human walking and standing in a virtual reality environment. Human Movement Science.
-2. **Acuña SA**, Ebrahimi A, Pomeroy RL, Martin JA, Thelen DG (2019). Achilles tendon shear wave speed tracks the dynamic modulation of standing balance. Applied Physiology.
-3.	**Acuña SA**, Tyler ME, Thelen DG (2019). Individuals with chronic mild to moderate traumatic brain injury exhibit decreased neuromuscular complexity during gait. Neurorehabilitation and Neural Repair.
+1. **Acuña SA**, Ebrahimi A, Pomeroy RL, Martin JA, Thelen DG (2019). Achilles tendon shear wave speed tracks the dynamic modulation of standing balance. Applied Physiology.
+1.	**Acuña SA**, Tyler ME, Thelen DG (2019). Individuals with chronic mild to moderate traumatic brain injury exhibit decreased neuromuscular complexity during gait. Neurorehabilitation and Neural Repair.
 
 <!---### Manuscripts in review
 1.	**Acuña SA**, Francis CA, Franz JR, Thelen DG (2018). The effects of cognitive load and optical flow on antagonist leg muscle coactivation during walking for young and older adults. Electromyography and Kinesiology.--->
 
 ### Peer-reviewed publications
+1.	**Acuña SA**, Zunker JD, Thelen DG (In press). The effects of sub-threshold vibratory noise on visuomotor entrainment during human walking and standing in a virtual reality environment. Human Movement Science.
 1.	**Acuña SA**, Francis CA, Franz JR, Thelen DG (2019). The effects of cognitive load and optical flow on antagonist leg muscle coactivation during walking for young and older adults. Electromyography and Kinesiology, 44: 8-14. [https://doi.org/10.1016/j.jelekin.2018.11.003](https://doi.org/10.1016/j.jelekin.2018.11.003)
 1.	**Acuña SA**, Tyler ME, Danilov YP, Thelen DG (2018). Abnormal muscle activation patterns are associated with chronic gait deficits following traumatic brain injury. Gait & Posture, 62:510-517. [https://doi.org/10.1016/j.gaitpost.2018.04.012](https://doi.org/10.1016/j.gaitpost.2018.04.012) [_Finalist for best paper award, GCMAS 2017_].
 2.  **Acuña SA**, Smith DM, Robinson JM, Hawks JC, Starbuck P, King DL, Ridge ST, Charles SK (2014). Instrumented figure skating blade for measuring on-ice skating forces. Measurement Science and Technology, 25(12): 125901. [http://dx.doi.org/10.1088/0957-0233/25/12/125901](http://dx.doi.org/10.1088/0957-0233/25/12/125901)
