@@ -25,7 +25,7 @@ Here are some things I've found helpful during my career.
 
 
 ## Software I Use
-> My software preferences will change, because I like trying out new apps to be more productive. These are some of the ones I recommend, in addition to normal apps we use (Office products, MatLab, etc). A lot of these are for macs only, though.
+> My software preferences will change, because I like trying out new apps to be more productive. These are some of the ones I recommend, in addition to normal apps we use (Office products, MatLab, etc). A lot of these are for Mac only, though.
 
 - Everything should be backed up using some cloud service, like [Box](http://www.box.com) or [Dropbox](http://www.dropbox.com).
 - [Alfred](https://www.alfredapp.com) is my go to launcher for apps, documents, etc. Take the time to learn it, it is super convenient and makes life easier.

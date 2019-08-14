@@ -16,7 +16,7 @@ Spread the word about Biomechanics! [National Biomechanics Day](http://nationalb
 - [Gait and Clinical Motion Analysis Society](http://www.gcmas.org)
 
 ## Research Labs I've worked in:
-- [UW Neuromuscular Biomechanics Lab](http://www.wisc.edu)
+- [UW Neuromuscular Biomechanics Lab](http://uwnmbl.engr.wisc.edu)
 - [BYU Neuromechanics Research Group](http://neuromechanics.byu.edu)
 
 ## My work has been featured in the media:
