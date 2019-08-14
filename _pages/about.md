@@ -27,11 +27,11 @@ Research Interests:
 
 ## Education
 **Doctor of Philosophy**, Mechanical Engineering, _May 2019_<br />
-[University of Wisconsin–Madison](http://www.wisc.edu), Madison, WI
+[University of Wisconsin–Madison](http://www.wisc.edu), Madison, WI<br />
 PI: [Darryl Thelen, Ph.D.](https://directory.engr.wisc.edu/me/Faculty/Thelen_Darryl/)
 
 **Master of Science**, Mechanical Engineering, _May 2015_<br />
-[University of Wisconsin–Madison](http://www.wisc.edu), Madison, WI
+[University of Wisconsin–Madison](http://www.wisc.edu), Madison, WI<br />
 PI: [Darryl Thelen, Ph.D.](https://directory.engr.wisc.edu/me/Faculty/Thelen_Darryl/)
 
 **Bachelor of Science**, Mechanical Engineering, _December 2012_<br />
