@@ -11,10 +11,8 @@ author_profile: true
 1.	**Acuña SA**, Tyler ME, Thelen DG. Individuals with chronic mild to moderate traumatic brain injury exhibit decreased neuromuscular complexity during gait. Neurorehabilitation and Neural Repair.
 1. 	**Acuña SA**, Tyler ME, Thelen DG. Improvements in dynamic motor control following neurorehabilitation of chronic balance deficits due to prior traumatic brain injury. Neuroengineering and Rehabilitation.
 
-### Manuscripts in review
-1. **Acuña SA**, Ebrahimi A, Pomeroy RL, Martin JA, Thelen DG (2019). Achilles tendon shear wave speed tracks the dynamic modulation of standing balance. Applied Physiology.
-
 ### Peer-reviewed publications
+1. **Acuña SA**, Ebrahimi A, Pomeroy RL, Martin JA, Thelen DG (In Press). Achilles tendon shear wave speed tracks the dynamic modulation of standing balance. Physiological Reports.
 1.	**Acuña SA**, Zunker JD, Thelen DG (2019). The effects of sub-threshold vibratory noise on visuomotor entrainment during human walking and standing in a virtual reality environment. Human Movement Science, 66: 587-599. [https://doi.org/10.1016/j.humov.2019.06.009](https://doi.org/10.1016/j.humov.2019.06.009)
 1.	**Acuña SA**, Francis CA, Franz JR, Thelen DG (2019). The effects of cognitive load and optical flow on antagonist leg muscle coactivation during walking for young and older adults. Electromyography and Kinesiology, 44: 8-14. [https://doi.org/10.1016/j.jelekin.2018.11.003](https://doi.org/10.1016/j.jelekin.2018.11.003)
 1.	**Acuña SA**, Tyler ME, Danilov YP, Thelen DG (2018). Abnormal muscle activation patterns are associated with chronic gait deficits following traumatic brain injury. Gait & Posture, 62:510-517. [https://doi.org/10.1016/j.gaitpost.2018.04.012](https://doi.org/10.1016/j.gaitpost.2018.04.012) [_Finalist for best paper award, GCMAS 2017_].
@@ -22,6 +20,7 @@ author_profile: true
 
 
 ### Conference abstracts
+1. **Acuña SA**, Dhaher YY. Individuals with chronic traumatic brain injury exhibit decreased neuromuscular complexity when walking: an overview of neuromechanics research. Podium presentation at the UT Southwestern Postdoctoral Association Annual Research Symposium. Dallas, TX. September 2019.
 1. **Acuña SA**, Ebrahimi A, Thelen DG. Thelen DG. Achilles tendon shear wave speed as a measure of the active modulation of standing balance. Podium and poster presentation at the joint conference of the International Society of Biomechanics and American Society of Biomechanics. Calgary, AB. August 2019. [_Finalist for ASB Doctoral Student Presentation Competition._]
 1. **Acuña SA**, Zunker JD, Thelen DG. Sub-threshold vibratory noise does not alter visuomotor entrainment during human walking. Poster presentation at the Gait and Clinical Motion Analysis Society Annual Meeting. Frisco, TX. March 2019.
 1. **Acuña SA**, Tyler ME, Danilov YP, Thelen DG. Changes in dynamic motor control following neurorehabilitation for traumatic brain injury: treadmill vs overground walking. Podium and Poster presentation at the American Society of Biomechanics Annual Meeting. Rochester, MN. August 2018. [_Finalist for ASB Doctoral Student Presentation Competition._]
