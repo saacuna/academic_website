@@ -7,7 +7,8 @@ author_profile: true
 <!---### Manuscripts in review
 1.	**Acuña SA**, Francis CA, Franz JR, Thelen DG (2018). The effects of cognitive load and optical flow on antagonist leg muscle coactivation during walking for young and older adults. Electromyography and Kinesiology.--->
 
-### Manuscripts in preparation
+### Manuscripts written, not yet submitted
+1. **Acuña SA**, Schroeder MJ, Krishnan C, Dhaher YY. Knee muscle forces during walking and stair descent following ACL reconstruction. Biomechanics.
 1.	**Acuña SA**, Tyler ME, Thelen DG. Individuals with chronic mild to moderate traumatic brain injury exhibit decreased neuromuscular complexity during gait. Neurorehabilitation and Neural Repair.
 1. 	**Acuña SA**, Tyler ME, Thelen DG. Improvements in dynamic motor control following neurorehabilitation of chronic balance deficits due to prior traumatic brain injury. Neuroengineering and Rehabilitation.
 
