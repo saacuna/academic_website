@@ -13,7 +13,7 @@ author_profile: true
 1. 	**Acuña SA**, Tyler ME, Thelen DG. Improvements in dynamic motor control following neurorehabilitation of chronic balance deficits due to prior traumatic brain injury. Neuroengineering and Rehabilitation.
 
 ### Peer-reviewed publications
-1. **Acuña SA**, Ebrahimi A, Pomeroy RL, Martin JA, Thelen DG (In Press). Achilles tendon shear wave speed tracks the dynamic modulation of standing balance. Physiological Reports.
+1. **Acuña SA**, Ebrahimi A, Pomeroy RL, Martin JA, Thelen DG (2019). Achilles tendon shear wave speed tracks the dynamic modulation of standing balance. Physiological Reports,7: e14298. [https://doi.org/10.14814/phy2.14298](https://doi.org/10.14814/phy2.14298)
 1.	**Acuña SA**, Zunker JD, Thelen DG (2019). The effects of sub-threshold vibratory noise on visuomotor entrainment during human walking and standing in a virtual reality environment. Human Movement Science, 66: 587-599. [https://doi.org/10.1016/j.humov.2019.06.009](https://doi.org/10.1016/j.humov.2019.06.009)
 1.	**Acuña SA**, Francis CA, Franz JR, Thelen DG (2019). The effects of cognitive load and optical flow on antagonist leg muscle coactivation during walking for young and older adults. Electromyography and Kinesiology, 44: 8-14. [https://doi.org/10.1016/j.jelekin.2018.11.003](https://doi.org/10.1016/j.jelekin.2018.11.003)
 1.	**Acuña SA**, Tyler ME, Danilov YP, Thelen DG (2018). Abnormal muscle activation patterns are associated with chronic gait deficits following traumatic brain injury. Gait & Posture, 62:510-517. [https://doi.org/10.1016/j.gaitpost.2018.04.012](https://doi.org/10.1016/j.gaitpost.2018.04.012) [_Finalist for best paper award, GCMAS 2017_].
