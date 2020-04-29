@@ -18,6 +18,7 @@ Research Interests:
 - Non-invasive neuromodulation
 - Biomechanics of Aging
 - Biofeedback to improve gait
+- Human-Centered Product Design
 
 ## Current Research Projects
 - Non-invasive spinal stimulation to improve gait post-stroke
