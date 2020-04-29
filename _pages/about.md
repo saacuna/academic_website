@@ -10,15 +10,32 @@ redirect_from:
 
 Hello! My name is Samuel Acuña. I am a biomechanical engineer in the department of [Physical Medicine & Rehabilitation](https://www.utsouthwestern.edu/education/medical-school/departments/physical-medicine/) at [UT Southwestern Medical Center](https://www.utsouthwestern.edu). I am postdoctoral researcher working with [Dr. Yasin Dharer](https://www.utsouthwestern.edu/education/graduate-school/programs/biomedical-engineering/program-faculty.html).
 
-Research Interests:
+### Areas of Expertise: 
 - Neuromuscular Biomechanics
 - Rehabilitation Engineering
-- Motor Control
-- Movement disorder, esp. altered gait
-- Non-invasive neuromodulation
-- Biomechanics of Aging
-- Biofeedback to improve gait
 - Human-Centered Product Design
+- Motor Control
+- Movement Disorder, Esp. Altered Gait
+- Non-Invasive Neuromodulation
+- Biomechanics of Aging
+- Biofeedback to Improve Gait
+- Systems Neurophysiology
+
+### Laboratory Skills:
+- Human Subjects Testing
+- Gait Analysis & Motion Capture
+- Electromyography and Systems Neurophysiology Testing
+- Computer Programming (Matlab, Labview, C++)
+- Musculoskeletal Modeling & Simulation
+- Prototyping
+
+### Transferable Skills
+- Research, Analysis, Interpretation, & Reporting
+- Team Leadership, Training, And Supervision
+- Content Development & Instruction
+- Mentoring and Teaching
+- Written & Oral Communication
+
 
 ## Current Research Projects
 - Non-invasive spinal stimulation to improve gait post-stroke
