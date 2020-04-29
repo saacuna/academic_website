@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Samuel Acuña. I am a biomechanical engineer in the department of [Physical Medicine & Rehabilitation](https://www.utsouthwestern.edu/education/medical-school/departments/physical-medicine/) at [UT Southwestern Medical Center](https://www.utsouthwestern.edu). I am postdoctoral researcher working with [Dr. Yasin Dharer](https://www.utsouthwestern.edu/education/graduate-school/programs/biomedical-engineering/program-faculty.html).
+Hello! I am a biomechanical engineer interested in rehabilition engineering and human-centered product design. I develop new technologies to address movement disorders that develop after injury, such as stroke or traumatic brain injury.
+
 ## Current Research Projects
 - Non-invasive spinal stimulation to improve gait post-stroke
 - Muscle synergies and neuromuscular coordination after mild to moderate traumatic brain injury
 - Cranial nerve non-invasive neuromodulation to alter muscle coordination of gait during rehabilitation for mild to moderate traumatic brain injury
 
 ## Current Positions
-- Postdoctoral Researcher, Dept. of Physical Medicine & Rehabilitation
- - University of Texas Southwestern Medical Center
-- Technical Manager, UTDesign Capstone Program
- - University of Texas at Dallas
+- Postdoctoral Researcher, [Dept. of Physical Medicine & Rehabilitation](https://www.utsouthwestern.edu/education/medical-school/departments/physical-medicine/)
+    - [University of Texas Southwestern Medical Center](https://www.utsouthwestern.edu)
+    - PI: [Dr. Yasin Dharer](https://www.utsouthwestern.edu/education/graduate-school/programs/biomedical-engineering/program-faculty.html)
+- Technical Manager, [UTDesign Capstone Program](https://utdesign.utdallas.edu)
+    - [University of Texas at Dallas](https://www.utdallas.edu)
 
 ### Areas of Expertise: 
 - Neuromuscular Biomechanics
