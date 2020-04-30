@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a biomechanical engineer interested in rehabilition engineering and human-centered product design. I develop new technologies to address movement disorders that develop after injury, such as stroke or traumatic brain injury.
+Hello! I am a biomechanical engineer interested in rehabilitation engineering and human-centered product design. I develop new technologies to address movement disorders that develop after injury, such as stroke or traumatic brain injury. I'm particularly interested in solving engineering problems for the hospital & health care industry with innovative and emerging technology, such as virtual reality and noninvasive neural stimulation. 
 
 ## Current Research Projects
 - Non-invasive spinal stimulation to improve gait post-stroke
+- The role of estrogen on Reciprocal Inhibition of the Soleus muscle
+- Form and function of spinal circuitry related to muscle spindles using hybrid electrophysiologic and functional MRI
 - Muscle synergies and neuromuscular coordination after mild to moderate traumatic brain injury
 - Cranial nerve non-invasive neuromodulation to alter muscle coordination of gait during rehabilitation for mild to moderate traumatic brain injury
 
@@ -39,6 +41,7 @@ Hello! I am a biomechanical engineer interested in rehabilition engineering and 
 - Electromyography and Systems Neurophysiology Testing
 - Computer Programming (Matlab, Labview, C++)
 - Musculoskeletal Modeling & Simulation
+- Study Design
 - Prototyping
 
 ### Transferable Skills
