@@ -17,7 +17,7 @@ If this whole engineering career doesn't work out, I want to be a lead guitarist
 - The role of estrogen on Reciprocal Inhibition of the Soleus muscle
 - Form and function of spinal circuitry related to muscle spindles using hybrid electrophysiologic and functional MRI
 - Muscle synergies and neuromuscular coordination after mild to moderate traumatic brain injury
-- Cranial nerve non-invasive neuromodulation to alter muscle coordination of gait during rehabilitation for mild to moderate traumatic brain injury
+- Translingual non-invasive neurostimulation to alter muscle coordination of gait during rehabilitation for mild to moderate traumatic brain injury
 
 ## Current Positions
 - Postdoctoral Researcher, [Dept. of Physical Medicine & Rehabilitation](https://www.utsouthwestern.edu/education/medical-school/departments/physical-medicine/)
