@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Hello! I am a biomechanical engineer interested in rehabilitation engineering and human-centered product design. I develop new technologies to address movement disorders that develop after injury, such as stroke or traumatic brain injury. I'm particularly interested in solving engineering problems for the hospital & health care industry with innovative and emerging technology, such as virtual reality and noninvasive neural stimulation. 
+
 If this whole engineering career doesn't work out, I want to be a lead guitarist in a post-rock band.
 
 ## Current Research Projects
